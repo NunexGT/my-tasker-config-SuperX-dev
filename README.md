@@ -9,5 +9,6 @@
  <br>
  Get it Now here:
  <br>
- <href:"https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=pt_PT&gl=US>![Google Play](https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png)
-</href>
+ <a href="https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=pt_PT&gl=US">
+ <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt:Tasker height=120>
+ </a>
