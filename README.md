@@ -18,7 +18,7 @@
  <h1>List of Automation on the .xml</h1>
  <h3>Here is a list of all the automation I made available to you on the xml:</h3>
  <h3>AntiLoss SMS Features</h3>
-       <i>These are really handy and don´t require an internet connection. Not even to locate your phone (Assuming that your phone has yet battery and it´s not turned off). Just ask a friend to borrow their phone ;)</i>
+       <i>These are really handy and don´t require an internet connection. Not even to locate your phone (Assuming that your phone has yet battery and it´s not turned off). Just ask a friend to borrow their phone and send an SMS with the Commands ;)</i>
        <br>
        <br>
  <b>Sounds and useful</b>
