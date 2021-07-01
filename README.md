@@ -35,7 +35,7 @@
   
   <b>Useful Info Grabbers</b>
  <ul>
- <li><
- 
-  
+ <li><b>Get a list of available SMS commands</b>(like this list)-Command:Get Commands
+ <li><b>Get your IMEI info</b>-So you can report in case of theft (You´ll need to put the info in the .xml file)-Command:Get IMEI (Password)
+ <li><b>-----------------------'
  
