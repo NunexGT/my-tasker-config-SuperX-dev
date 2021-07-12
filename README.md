@@ -13,7 +13,9 @@
  <a href="https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=pt_PT&gl=US">
  <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt:Tasker height=120>
  </a>
+ <br>
  App made by joaomcgd
+ <img src="https://ehacks.com.br/wp-content/uploads/167/17-shut-up-and-take-my-money-768x480.jpg" widht="200">
  
  <h1>List of Automation on the .xml</h1>
  <h3>Here is a list of all the automation I made available to you on the xml:</h3>
