@@ -43,6 +43,10 @@
 <h4>Music and Media</h4>
 This also has music and media features, such activating DND when listening to music or watching a movie.
 
+<h4>Android Package Logs</h4>
+These can also write down in a .csv file every time an Android apps gets either installed, updated or uninstalled. You can the easely import into a sheet file
+<i>*Note:For this to work, just extract "Tasker Logs.zip" and copy it into the main storage of your phone (/storage/emulated/0)</i>
+
   
  <h1>What to edit on the backup.xml</h1>
  <b>For these features to work properly, you´ll need first to edit the .xml to work as intended</b>
@@ -71,11 +75,9 @@ This also has music and media features, such activating DND when listening to mu
  </ol>
  
  Or just follow this .gif
+ ![](https://github.com/SuperX-dev/my-tasker-config-SuperX-dev/blob/master/readme%20resources/Photos/Import%20backup.xml.gif?raw=true)
  
  <b> And make sure that you allow all the Permission Tasker prompts you to allow during setup.</b>
- 
- <br>
- Wait for the .gif
  
 <h1>Thank You</h1>
 Hope you like it and Happy automation ;)
