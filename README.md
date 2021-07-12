@@ -74,8 +74,7 @@ These can also write down in a .csv file every time an Android apps gets either 
  <li>Go to "Data" > "Restore" > "User Local Backup" and then go to the directory you chose. (Use the upper arrow on the top of the screen to go back in directories.</li>
  </ol>
  
- Or just follow this .gif
- ![](https://github.com/SuperX-dev/my-tasker-config-SuperX-dev/blob/master/readme%20resources/Photos/Import%20backup.xml.gif?raw=true)
+ Or just follow this <a href="https://github.com/SuperX-dev/my-tasker-config-SuperX-dev/blob/main/readme%20resources/Photos/Import%20backup.xml.gif">.gif</a>
  
  <b> And make sure that you allow all the Permission Tasker prompts you to allow during setup.</b>
  
