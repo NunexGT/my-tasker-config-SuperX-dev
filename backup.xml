@@ -15,47 +15,47 @@
 		<v>30</v>
 	</Setting>
 	<Setting sr="prefs11">
-		<n>bkcuva</n>
-		<t>b</t>
-		<v>true</v>
-	</Setting>
-	<Setting sr="prefs12">
 		<n>accMR</n>
 		<t>f</t>
 		<v>3.5</v>
 	</Setting>
-	<Setting sr="prefs13">
-		<n>acMSr</n>
-		<t>l</t>
-		<v>300</v>
+	<Setting sr="prefs12">
+		<n>bkcuva</n>
+		<t>b</t>
+		<v>true</v>
 	</Setting>
-	<Setting sr="prefs14">
+	<Setting sr="prefs13">
 		<n>tEnable</n>
 		<t>b</t>
 		<v>true</v>
 	</Setting>
-	<Setting sr="prefs15">
-		<n>gupt</n>
+	<Setting sr="prefs14">
+		<n>acMSr</n>
 		<t>l</t>
-		<v>90</v>
+		<v>300</v>
 	</Setting>
-	<Setting sr="prefs16">
+	<Setting sr="prefs15">
 		<n>asactions</n>
 		<t>b</t>
 		<v>true</v>
 	</Setting>
-	<Setting sr="prefs17">
-		<n>lcD</n>
-		<t>s</t>
-		<v></v>
+	<Setting sr="prefs16">
+		<n>gupt</n>
+		<t>l</t>
+		<v>90</v>
 	</Setting>
-	<Setting sr="prefs18">
+	<Setting sr="prefs17">
 		<n>guped</n>
 		<t>l</t>
 		<v>120</v>
 	</Setting>
+	<Setting sr="prefs18">
+		<n>lcD</n>
+		<t>s</t>
+		<v></v>
+	</Setting>
 	<Setting sr="prefs19">
-		<n>wakeForLoc</n>
+		<n>lEnable</n>
 		<t>b</t>
 		<v>false</v>
 	</Setting>
@@ -65,7 +65,7 @@
 		<v>1</v>
 	</Setting>
 	<Setting sr="prefs20">
-		<n>lEnable</n>
+		<n>wakeForLoc</n>
 		<t>b</t>
 		<v>false</v>
 	</Setting>
@@ -75,19 +75,19 @@
 		<v>1</v>
 	</Setting>
 	<Setting sr="prefs22">
+		<n>lae</n>
+		<t>b</t>
+		<v>false</v>
+	</Setting>
+	<Setting sr="prefs23">
 		<n>accentIndex</n>
 		<t>i</t>
 		<v>-1</v>
 	</Setting>
-	<Setting sr="prefs23">
+	<Setting sr="prefs24">
 		<n>shInAPr</n>
 		<t>b</t>
 		<v>true</v>
-	</Setting>
-	<Setting sr="prefs24">
-		<n>lae</n>
-		<t>b</t>
-		<v>false</v>
 	</Setting>
 	<Setting sr="prefs25">
 		<n>mSi</n>
@@ -100,14 +100,14 @@
 		<v>2</v>
 	</Setting>
 	<Setting sr="prefs27">
-		<n>anm</n>
-		<t>b</t>
-		<v>false</v>
-	</Setting>
-	<Setting sr="prefs28">
 		<n>pen</n>
 		<t>b</t>
 		<v>true</v>
+	</Setting>
+	<Setting sr="prefs28">
+		<n>anm</n>
+		<t>b</t>
+		<v>false</v>
 	</Setting>
 	<Setting sr="prefs29">
 		<n>avo</n>
@@ -120,24 +120,24 @@
 		<v></v>
 	</Setting>
 	<Setting sr="prefs30">
-		<n>ast3</n>
-		<t>s</t>
-		<v></v>
+		<n>dragModeNew</n>
+		<t>i</t>
+		<v>4</v>
 	</Setting>
 	<Setting sr="prefs31">
-		<n>googleDriveBackups</n>
-		<t>b</t>
-		<v>true</v>
-	</Setting>
-	<Setting sr="prefs32">
 		<n>magnetWhenOff</n>
 		<t>i</t>
 		<v>2</v>
 	</Setting>
+	<Setting sr="prefs32">
+		<n>googleDriveBackups</n>
+		<t>b</t>
+		<v>true</v>
+	</Setting>
 	<Setting sr="prefs33">
-		<n>dragModeNew</n>
-		<t>i</t>
-		<v>4</v>
+		<n>ast3</n>
+		<t>s</t>
+		<v></v>
 	</Setting>
 	<Setting sr="prefs34">
 		<n>qst2</n>
@@ -145,14 +145,14 @@
 		<v></v>
 	</Setting>
 	<Setting sr="prefs35">
-		<n>btpiod</n>
-		<t>l</t>
-		<v>120</v>
-	</Setting>
-	<Setting sr="prefs36">
 		<n>taskEditActionNumbers</n>
 		<t>b</t>
 		<v>true</v>
+	</Setting>
+	<Setting sr="prefs36">
+		<n>btpiod</n>
+		<t>l</t>
+		<v>120</v>
 	</Setting>
 	<Setting sr="prefs37">
 		<n>beginnerMode</n>
@@ -210,19 +210,19 @@
 		<v>2</v>
 	</Setting>
 	<Setting sr="prefs47">
-		<n>clock_alarm</n>
-		<t>i</t>
-		<v>2</v>
-	</Setting>
-	<Setting sr="prefs48">
 		<n>sExps</n>
 		<t>b</t>
 		<v>true</v>
 	</Setting>
+	<Setting sr="prefs48">
+		<n>clock_alarm</n>
+		<t>i</t>
+		<v>2</v>
+	</Setting>
 	<Setting sr="prefs49">
-		<n>sows</n>
-		<t>l</t>
-		<v>60</v>
+		<n>sbl</n>
+		<t>i</t>
+		<v>0</v>
 	</Setting>
 	<Setting sr="prefs5">
 		<n>taskEditActionLabels</n>
@@ -235,9 +235,9 @@
 		<v></v>
 	</Setting>
 	<Setting sr="prefs51">
-		<n>sbl</n>
-		<t>i</t>
-		<v>0</v>
+		<n>sows</n>
+		<t>l</t>
+		<v>60</v>
 	</Setting>
 	<Setting sr="prefs52">
 		<n>acrmd</n>
@@ -245,9 +245,9 @@
 		<v>1200</v>
 	</Setting>
 	<Setting sr="prefs53">
-		<n>dsd</n>
+		<n>lPdta</n>
 		<t>b</t>
-		<v>false</v>
+		<v>true</v>
 	</Setting>
 	<Setting sr="prefs54">
 		<n>hideStatusBar</n>
@@ -255,9 +255,9 @@
 		<v>1</v>
 	</Setting>
 	<Setting sr="prefs55">
-		<n>lPdta</n>
+		<n>dsd</n>
 		<t>b</t>
-		<v>true</v>
+		<v>false</v>
 	</Setting>
 	<Setting sr="prefs56">
 		<n>newCellApi</n>
@@ -265,19 +265,19 @@
 		<v>false</v>
 	</Setting>
 	<Setting sr="prefs57">
-		<n>sigmotion</n>
-		<t>b</t>
-		<v>false</v>
-	</Setting>
-	<Setting sr="prefs58">
 		<n>gak</n>
 		<t>s</t>
 		<v></v>
 	</Setting>
+	<Setting sr="prefs58">
+		<n>sigmotion</n>
+		<t>b</t>
+		<v>false</v>
+	</Setting>
 	<Setting sr="prefs59">
-		<n>accelWhenOff</n>
+		<n>lph</n>
 		<t>i</t>
-		<v>1</v>
+		<v>4</v>
 	</Setting>
 	<Setting sr="prefs6">
 		<n>kcph</n>
@@ -285,17 +285,17 @@
 		<v>PBEWithMD5And128BitAES-CBC-OpenSSL</v>
 	</Setting>
 	<Setting sr="prefs60">
-		<n>lph</n>
+		<n>accelWhenOff</n>
 		<t>i</t>
-		<v>4</v>
+		<v>1</v>
 	</Setting>
 	<Setting sr="prefs61">
-		<n>workForLoc</n>
+		<n>taskEditTypeIcon</n>
 		<t>b</t>
 		<v>false</v>
 	</Setting>
 	<Setting sr="prefs62">
-		<n>taskEditTypeIcon</n>
+		<n>workForLoc</n>
 		<t>b</t>
 		<v>false</v>
 	</Setting>
@@ -340,34 +340,34 @@
 		<v>true</v>
 	</Setting>
 	<Setting sr="prefs70">
-		<n>oss</n>
-		<t>i</t>
-		<v>0</v>
-	</Setting>
-	<Setting sr="prefs71">
 		<n>pTs</n>
 		<t>i</t>
 		<v>17</v>
 	</Setting>
-	<Setting sr="prefs72">
-		<n>humidityWhenOff</n>
+	<Setting sr="prefs71">
+		<n>oss</n>
 		<t>i</t>
-		<v>2</v>
+		<v>0</v>
 	</Setting>
-	<Setting sr="prefs73">
+	<Setting sr="prefs72">
 		<n>lockIconColour</n>
 		<t>b</t>
 		<v>true</v>
 	</Setting>
-	<Setting sr="prefs74">
-		<n>custntaskone</n>
-		<t>s</t>
-		<v></v>
+	<Setting sr="prefs73">
+		<n>humidityWhenOff</n>
+		<t>i</t>
+		<v>2</v>
 	</Setting>
-	<Setting sr="prefs75">
+	<Setting sr="prefs74">
 		<n>aExt</n>
 		<t>b</t>
 		<v>false</v>
+	</Setting>
+	<Setting sr="prefs75">
+		<n>custntaskone</n>
+		<t>s</t>
+		<v></v>
 	</Setting>
 	<Setting sr="prefs76">
 		<n>googleDriveBackupsAccount</n>
@@ -375,14 +375,14 @@
 		<v></v>
 	</Setting>
 	<Setting sr="prefs77">
-		<n>adbwp</n>
-		<t>s</t>
-		<v>5555</v>
-	</Setting>
-	<Setting sr="prefs78">
 		<n>sHapt</n>
 		<t>b</t>
 		<v>true</v>
+	</Setting>
+	<Setting sr="prefs78">
+		<n>adbwp</n>
+		<t>s</t>
+		<v>5555</v>
 	</Setting>
 	<Setting sr="prefs79">
 		<n>qst0</n>
@@ -405,34 +405,34 @@
 		<v>cust_notification</v>
 	</Setting>
 	<Setting sr="prefs82">
-		<n>lightWhenOff</n>
-		<t>i</t>
-		<v>1</v>
-	</Setting>
-	<Setting sr="prefs83">
-		<n>lperiod</n>
-		<t>l</t>
-		<v>1500</v>
-	</Setting>
-	<Setting sr="prefs84">
-		<n>mqt</n>
-		<t>i</t>
-		<v>10</v>
-	</Setting>
-	<Setting sr="prefs85">
 		<n>tpEn</n>
 		<t>b</t>
 		<v>true</v>
 	</Setting>
-	<Setting sr="prefs86">
-		<n>ast0</n>
-		<t>s</t>
-		<v></v>
+	<Setting sr="prefs83">
+		<n>mqt</n>
+		<t>i</t>
+		<v>10</v>
 	</Setting>
-	<Setting sr="prefs87">
+	<Setting sr="prefs84">
+		<n>lperiod</n>
+		<t>l</t>
+		<v>1500</v>
+	</Setting>
+	<Setting sr="prefs85">
+		<n>lightWhenOff</n>
+		<t>i</t>
+		<v>1</v>
+	</Setting>
+	<Setting sr="prefs86">
 		<n>snopin</n>
 		<t>b</t>
 		<v>true</v>
+	</Setting>
+	<Setting sr="prefs87">
+		<n>ast0</n>
+		<t>s</t>
+		<v></v>
 	</Setting>
 	<Setting sr="prefs88">
 		<n>taskEditArgLabels</n>
@@ -455,14 +455,14 @@
 		<v></v>
 	</Setting>
 	<Setting sr="prefs91">
-		<n>notactions</n>
-		<t>b</t>
-		<v>false</v>
-	</Setting>
-	<Setting sr="prefs92">
 		<n>stroutdf</n>
 		<t>b</t>
 		<v>true</v>
+	</Setting>
+	<Setting sr="prefs92">
+		<n>notactions</n>
+		<t>b</t>
+		<v>false</v>
 	</Setting>
 	<Setting sr="prefs93">
 		<n>uiori</n>
@@ -620,6 +620,29 @@ The year the media was created or published.&lt;/_array_net.dinglisch.android.ta
 			<Str sr="arg3" ve="3"/>
 		</Event>
 	</Profile>
+	<Profile sr="prof25" ve="2">
+		<cdate>1626107150130</cdate>
+		<edate>1626107217611</edate>
+		<flags>10</flags>
+		<id>25</id>
+		<mid0>26</mid0>
+		<Event sr="con0" ve="2">
+			<code>451</code>
+			<Str sr="arg0" ve="3"/>
+		</Event>
+	</Profile>
+	<Profile sr="prof27" ve="2">
+		<cdate>1626107264846</cdate>
+		<edate>1626107314941</edate>
+		<flags>8</flags>
+		<id>27</id>
+		<mid0>31</mid0>
+		<Event sr="con0" ve="2">
+			<code>450</code>
+			<Str sr="arg0" ve="3"/>
+			<Str sr="arg1" ve="3"/>
+		</Event>
+	</Profile>
 	<Profile sr="prof29" ve="2">
 		<cdate>1624871181663</cdate>
 		<edate>1624907799694</edate>
@@ -706,6 +729,18 @@ The year the media was created or published.&lt;/_array_net.dinglisch.android.ta
 			<Str sr="arg3" ve="3"/>
 		</Event>
 	</Profile>
+	<Profile sr="prof8" ve="2">
+		<cdate>1626107059987</cdate>
+		<edate>1626107227929</edate>
+		<flags>10</flags>
+		<id>8</id>
+		<mid0>11</mid0>
+		<Event sr="con0" ve="2">
+			<code>453</code>
+			<Str sr="arg0" ve="3"/>
+			<Str sr="arg1" ve="3"/>
+		</Event>
+	</Profile>
 	<Profile sr="prof9" ve="2">
 		<cdate>1624871181663</cdate>
 		<cldm>20</cldm>
@@ -724,10 +759,10 @@ The year the media was created or published.&lt;/_array_net.dinglisch.android.ta
 	</Profile>
 	<Project sr="proj0" ve="2">
 		<cdate>1616845844985</cdate>
-		<mdate>1624964375101</mdate>
+		<mdate>1626107314941</mdate>
 		<name>Base</name>
-		<pids>22,2,4,6,9,14,16,19,29,13,21</pids>
-		<tids>3,5,7,10,12,15,18,20,23,28,30,17,24</tids>
+		<pids>22,2,4,6,9,14,16,19,29,13,21,8,25,27</pids>
+		<tids>3,5,7,10,12,15,18,20,23,28,30,17,24,11,26,31</tids>
 		<Img sr="icon" ve="2">
 			<nme>mw_action_home</nme>
 		</Img>
@@ -813,7 +848,20 @@ Suppressed Effects
 			<Int sr="arg2" val="0"/>
 		</Action>
 	</Task>
-<!--	<Task sr="task12">
+	<Task sr="task11">
+		<cdate>1626107071734</cdate>
+		<edate>1626107126546</edate>
+		<id>11</id>
+		<nme>Update Log</nme>
+		<Action sr="act0" ve="7">
+			<code>410</code>
+			<Str sr="arg0" ve="3">Tasker Logs/pkgupdatelog.csv</Str>
+			<Str sr="arg1" ve="3">%DATE%TIME%evtprm()</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="1"/>
+		</Action>
+	</Task>
+	<Task sr="task12">
 		<cdate>1624871193935</cdate>
 		<edate>1624907978866</edate>
 		<id>12</id>
@@ -873,7 +921,7 @@ Suppressed Effects
 			<Int sr="arg1" val="0"/>
 			<Int sr="arg2" val="0"/>
 		</Action>
-	</Task>-->
+	</Task>
 	<Task sr="task15">
 		<cdate>1624875048781</cdate>
 		<edate>1624907847121</edate>
@@ -979,6 +1027,7 @@ Commands List:
 "Stop":To stop any current sound that was sent by any of the previous commands
 "Get Location (Chosen Password)":Retrieve Phone's location in case it gets lost.
 "Get IMEI (Chosen Password)":Shows my Phone's IMEI to report in case it gets stolen (Always save this).
+It also has easter egg comands. Try to find them ;) 
 Phone:(Your Phone)
 Property:(Your Name)</Str>
 			<Int sr="arg2" val="0"/>
@@ -1011,6 +1060,30 @@ IMEI2:(Put your IMEI2)</Str>
 			<code>137</code>
 			<Int sr="arg0" val="0"/>
 			<Str sr="arg1" ve="3">Locate Phone</Str>
+		</Action>
+	</Task>
+	<Task sr="task24">
+		<cdate>1624907423465</cdate>
+		<edate>1624907907791</edate>
+		<id>24</id>
+		<nme>Stop Rickroll</nme>
+		<Action sr="act0" ve="7">
+			<code>137</code>
+			<Int sr="arg0" val="0"/>
+			<Str sr="arg1" ve="3">RickRoll</Str>
+		</Action>
+	</Task>
+	<Task sr="task26">
+		<cdate>1626107163553</cdate>
+		<edate>1626107217611</edate>
+		<id>26</id>
+		<nme>App removed Log</nme>
+		<Action sr="act0" ve="7">
+			<code>410</code>
+			<Str sr="arg0" ve="3">Tasker Logs/pkguninstallog.csv</Str>
+			<Str sr="arg1" ve="3">%DATE%TIME%evtprm()</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="1"/>
 		</Action>
 	</Task>
 	<Task sr="task28">
@@ -1076,6 +1149,19 @@ Suppressed Effects
 			<code>137</code>
 			<Int sr="arg0" val="0"/>
 			<Str sr="arg1" ve="3">Rob Alert</Str>
+		</Action>
+	</Task>
+	<Task sr="task31">
+		<cdate>1626107278797</cdate>
+		<edate>1626107314941</edate>
+		<id>31</id>
+		<nme>App Instaled Log</nme>
+		<Action sr="act0" ve="7">
+			<code>410</code>
+			<Str sr="arg0" ve="3">Tasker Logs/pkginstalledlog.csv</Str>
+			<Str sr="arg1" ve="3">%DATE%TIME%evtprm()</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="1"/>
 		</Action>
 	</Task>
 	<Task sr="task5">
